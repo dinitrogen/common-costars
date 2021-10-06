@@ -1,0 +1,55 @@
+.movie-div {
+    display: flex;
+  }
+
+.actor-selector {
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    flex-basis: 30%;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+.result-pane {
+    display: block;
+    margin: 20px;
+    
+    flex-basis: 30%;
+ 
+    
+}
+
+.results-list {
+    border: solid 2px black;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.submit-box {
+    margin-top: 20px;
+    display: block;
+    flex-direction: column;
+}
+
+.submit-button {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(68, 68, 156);
+    color: white;
+    font-size: 24px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.submit-text-div {
+    margin-top: 10px;
+}
+
+.green-text {
+    color: green;
+}
+
+.red-text {
+    color: red;
+}
