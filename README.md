@@ -1,7 +1,7 @@
 # Common Costar Finder
 
 ## Live Demo
-Live Demo:
+- https://dinitrogen.github.io/common-costars/
 
 ## Directions
 Use the drop down menus to select any combination of actors. Actors that have costarred in both a movie with Actor A and Actor B (not necessarily at the same time) will be displayed in the right-hand panel.
